@@ -1,4 +1,4 @@
-# Hi, I'm Anish! 👋
+# Hi, I'm Anish 👋
 
 🎓 I'm a freshman studying **Computer Science** at **UC Irvine**.  
 💻 I have been coding for over 7 years and have experience in **Python**, **Java**, **HTML**, **CSS**, **SQL**, and **Machine Learning**.  
